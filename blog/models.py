@@ -11,4 +11,4 @@ class Post(models.Model):
 
 
     def __str_(self):
-        return self.title
+        return self.title 
